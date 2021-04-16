@@ -1,0 +1,6 @@
+tensorflow-gpu>=2.2.1
+keras
+numpy
+opencv-contrib-python
+scikit-learn
+matplotlib
